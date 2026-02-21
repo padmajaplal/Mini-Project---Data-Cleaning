@@ -1,4 +1,4 @@
-customer_id,store_name,transaction_date,Department,product_name,Product Grouping,Department Type,quantity,unit_price,Total amount,discount_amount,final_amount,Sales Size,loyalty_points,Discount Status,Unit Price Status,Quantity Status
+Customer ID,Store Name,Transaction Date,Department,Product Name,Product Grouping,Department Type,Quantity,Unit_price,Total amount,Discount Amount,Final Amount,Sales Size,Loyalty Points,Discount Status,Unit Price Status,Quantity Status
 1006,Quickstop Market,30-03-2024,Canned Goods,Rice,Grains,General,5,22,110,0,110,High Sales,5,No Discount,Medium,Bulk Order
 1009,Corner Grocery,14-11-2024,Beverages,Onions,Other Items,Drinks,2,21,42,4,38,Medium Sales,330,Low Discount,Medium,Medium Order
 1018,Valueplus Market,29-12-2024,Frozen Foods,Onions,Other Items,Food,3,22,66,13,52,High Sales,478,Medium Discount,Medium,Medium Order
